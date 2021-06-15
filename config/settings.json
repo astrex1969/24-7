@@ -1,7 +1,7 @@
 {
   "discord_token": "",
-  "prefix": "!",
-  "owner_id": "",
+  "prefix": "?",
+  "owner_id": "765916673978138645",
   "presence_type": "PLAYING",
   "channel_id": "848120194710765588",
   "shuffle": true,
